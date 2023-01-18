@@ -1,0 +1,15 @@
+D:\Vs\2022\project\BinaryTree\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+D:\Vs\2022\project\BinaryTree\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+D:\Vs\2022\project\BinaryTree\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+D:\Vs\2022\project\BinaryTree\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+D:\Vs\2022\project\BinaryTree\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+D:\Vs\2022\project\BinaryTree\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
